@@ -1,5 +1,6 @@
 #### Shirley Fong
 
+```json
 {
   "name": "Shirley Fong",
   "bio": "Data Science Master's student at Northeastern University passionate about statistical modeling, data visualization, and data analysis.",
@@ -14,7 +15,7 @@
     "Machine Learning/Deep Learning",
     "Data Visualization"
   ],
-  "current projects": [
+  "current_projects": [
     "BugBot: Using Deep Learning For Household Pest Image Classification"
   ]
 }
