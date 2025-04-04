@@ -1,4 +1,6 @@
-#### Shirley Fong
+<h2 align="center">Shirley Fong</h2>
+
+<p align="center">——————————————</p>
 
 ```json
 {
