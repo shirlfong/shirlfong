@@ -12,6 +12,7 @@
   ],
   "interests": [
     "Data Analytics",
+    "Database Management",
     "Machine Learning/Deep Learning",
     "Data Visualization"
   ],
